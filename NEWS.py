@@ -1,5 +1,6 @@
 # Autor: Krezub P.N.
 # Чтение ленты новостей из яндекс ленты
+# UI в tkinter
 
 import requests
 import time
