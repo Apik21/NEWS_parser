@@ -1,5 +1,6 @@
 # Autor: Apik21
 # Чтение ленты новостей из яндекс ленты
+# UI в tkinter
 
 import requests
 import time
