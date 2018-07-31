@@ -1,4 +1,4 @@
-# Autor: Krezub P.N.
+# Autor: Apik21
 # Чтение ленты новостей из яндекс ленты
 
 import requests
